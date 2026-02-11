@@ -1,2 +1,2 @@
-# CourseraIntroToPython
-Intro To Python Project
+# Coursera Intro To Python
+A Guided Project from Coursera learning more about Python
